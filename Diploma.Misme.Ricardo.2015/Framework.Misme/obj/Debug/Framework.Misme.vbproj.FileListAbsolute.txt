@@ -1,0 +1,105 @@
+G:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.dll
+G:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.pdb
+G:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.xml
+G:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+G:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+G:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.dll
+G:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.xml
+G:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.pdb
+F:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.dll
+F:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.pdb
+F:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.xml
+F:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+F:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+F:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.dll
+F:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.xml
+F:\Programacion Orientada a Objetos\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.pdb
+E:\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.dll
+E:\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.pdb
+E:\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.xml
+E:\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+E:\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+E:\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.dll
+E:\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.xml
+E:\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.pdb
+C:\Users\PC1\Desktop\Facultad\POO\Framework.Misme(con ale)\Framework.Misme\bin\Debug\Framework.Misme.dll
+C:\Users\PC1\Desktop\Facultad\POO\Framework.Misme(con ale)\Framework.Misme\bin\Debug\Framework.Misme.pdb
+C:\Users\PC1\Desktop\Facultad\POO\Framework.Misme(con ale)\Framework.Misme\bin\Debug\Framework.Misme.xml
+C:\Users\PC1\Desktop\Facultad\POO\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+C:\Users\PC1\Desktop\Facultad\POO\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+C:\Users\PC1\Desktop\Facultad\POO\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.dll
+C:\Users\PC1\Desktop\Facultad\POO\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.xml
+C:\Users\PC1\Desktop\Facultad\POO\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.pdb
+C:\Users\CABJ\Desktop\Framework.Misme(con ale)\Framework.Misme\bin\Debug\Framework.Misme.dll
+C:\Users\CABJ\Desktop\Framework.Misme(con ale)\Framework.Misme\bin\Debug\Framework.Misme.pdb
+C:\Users\CABJ\Desktop\Framework.Misme(con ale)\Framework.Misme\bin\Debug\Framework.Misme.xml
+C:\Users\CABJ\Desktop\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+C:\Users\CABJ\Desktop\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+C:\Users\CABJ\Desktop\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.dll
+C:\Users\CABJ\Desktop\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.xml
+C:\Users\CABJ\Desktop\Framework.Misme(con ale)\Framework.Misme\obj\Debug\Framework.Misme.pdb
+C:\Users\CABJ\Desktop\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.dll
+C:\Users\CABJ\Desktop\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.pdb
+C:\Users\CABJ\Desktop\Framework.Misme\Framework.Misme\bin\Debug\Framework.Misme.xml
+C:\Users\CABJ\Desktop\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+C:\Users\CABJ\Desktop\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+C:\Users\CABJ\Desktop\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.dll
+C:\Users\CABJ\Desktop\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.xml
+C:\Users\CABJ\Desktop\Framework.Misme\Framework.Misme\obj\Debug\Framework.Misme.pdb
+C:\Users\CABJ\Desktop\Framework.Misme\bin\Debug\Framework.Misme.dll
+C:\Users\CABJ\Desktop\Framework.Misme\bin\Debug\Framework.Misme.pdb
+C:\Users\CABJ\Desktop\Framework.Misme\bin\Debug\Framework.Misme.xml
+C:\Users\CABJ\Desktop\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+C:\Users\CABJ\Desktop\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+C:\Users\CABJ\Desktop\Framework.Misme\obj\Debug\Framework.Misme.dll
+C:\Users\CABJ\Desktop\Framework.Misme\obj\Debug\Framework.Misme.xml
+C:\Users\CABJ\Desktop\Framework.Misme\obj\Debug\Framework.Misme.pdb
+H:\Lenguaje de Ultima Generacion\ProyectoFinalLUG\Framework.Misme\bin\Debug\Framework.Misme.dll
+H:\Lenguaje de Ultima Generacion\ProyectoFinalLUG\Framework.Misme\bin\Debug\Framework.Misme.pdb
+H:\Lenguaje de Ultima Generacion\ProyectoFinalLUG\Framework.Misme\bin\Debug\Framework.Misme.xml
+H:\Lenguaje de Ultima Generacion\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+H:\Lenguaje de Ultima Generacion\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+H:\Lenguaje de Ultima Generacion\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.dll
+H:\Lenguaje de Ultima Generacion\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.xml
+H:\Lenguaje de Ultima Generacion\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.pdb
+D:\Ricardo\ProyectoFinalLUG\Framework.Misme\bin\Debug\Framework.Misme.dll
+D:\Ricardo\ProyectoFinalLUG\Framework.Misme\bin\Debug\Framework.Misme.pdb
+D:\Ricardo\ProyectoFinalLUG\Framework.Misme\bin\Debug\Framework.Misme.xml
+D:\Ricardo\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+D:\Ricardo\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+D:\Ricardo\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.dll
+D:\Ricardo\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.xml
+D:\Ricardo\ProyectoFinalLUG\Framework.Misme\obj\Debug\Framework.Misme.pdb
+F:\DiplomaEasyRest\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.dll
+F:\DiplomaEasyRest\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.pdb
+F:\DiplomaEasyRest\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.xml
+F:\DiplomaEasyRest\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+F:\DiplomaEasyRest\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+F:\DiplomaEasyRest\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.dll
+F:\DiplomaEasyRest\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.xml
+F:\DiplomaEasyRest\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.pdb
+D:\Diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.dll
+D:\Diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.pdb
+D:\Diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.xml
+D:\Diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+D:\Diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+D:\Diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.dll
+D:\Diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.xml
+D:\Diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.pdb
+F:\DiplomaEasyRest\castelar.diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.dll
+F:\DiplomaEasyRest\castelar.diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.pdb
+F:\DiplomaEasyRest\castelar.diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.xml
+F:\DiplomaEasyRest\castelar.diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+F:\DiplomaEasyRest\castelar.diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+F:\DiplomaEasyRest\castelar.diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.dll
+F:\DiplomaEasyRest\castelar.diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.xml
+F:\DiplomaEasyRest\castelar.diploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.pdb
+F:\DiplomaGitHub\TrabajoDiploma\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.dll
+F:\DiplomaGitHub\TrabajoDiploma\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.pdb
+F:\DiplomaGitHub\TrabajoDiploma\Diploma.Misme.Ricardo.2015\Framework.Misme\bin\Debug\Framework.Misme.xml
+F:\DiplomaGitHub\TrabajoDiploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.vbprojResolveAssemblyReference.cache
+F:\DiplomaGitHub\TrabajoDiploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.Resources.resources
+F:\DiplomaGitHub\TrabajoDiploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.vbproj.GenerateResource.Cache
+F:\DiplomaGitHub\TrabajoDiploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.dll
+F:\DiplomaGitHub\TrabajoDiploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.xml
+F:\DiplomaGitHub\TrabajoDiploma\Diploma.Misme.Ricardo.2015\Framework.Misme\obj\Debug\Framework.Misme.pdb
